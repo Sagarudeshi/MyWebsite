@@ -1,0 +1,29 @@
+/* Blue - #3498db */
+
+
+
+
+.spacer,#grid .mix .overlay {
+
+background: #3498db;
+}
+
+#page-contact{
+	background: #3498db;
+	color:#fff;
+}
+
+#page-contact .spacer{
+	background: #fff;
+}
+
+#page-contact .section-title{
+	color:#fff;
+}
+
+.btn.btn-default:hover,
+.btn.btn-default:active{
+    color:#3498db;
+}
+
+
