@@ -1,6 +1,6 @@
 
 
-[Portfolio Item]is an individual portfolio created by Sagar Udeshi(http://sagarudeshi.com).
+[http://sagarudeshi.com]is an individual portfolio created by Sagar Udeshi.
 
 ## Getting Started
 
